@@ -113,7 +113,6 @@ venv.bak/
 .idea/**/tasks.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea/**/markdown-navigator
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
